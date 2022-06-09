@@ -1,15 +1,15 @@
 {
-    "name": "foryoufeng/laravel-generator",
+    "name": "xuyan0213/laravel-generator",
     "description": "A tool for generate Laravel code file",
     "license": "MIT",
     "authors": [
         {
-            "name": "foryoufeng",
-            "email": "foryoufeng@gmail.com",
-            "homepage": "https://github.com/foryoufeng"
+            "name": "xuyan0213",
+            "email": "xuyan0213@gmail.com",
+            "homepage": "https://github.com/xuyan0213"
         }
     ],
-    "homepage": "https://github.com/foryoufeng/laravel-generator",
+    "homepage": "https://github.com/xuyan0213/laravel-generator",
     "keywords": ["Laravel", "laravel-generator","code generator"],
     "require": {
         "laravel/framework": "^5.0||~6.0||~7.0||~8.0||~9.0",
